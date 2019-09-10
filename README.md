@@ -6,7 +6,7 @@ Program to add/remove image noise.
 `make`
 
 
-`./denoise [src image.ppm] [dst image.ppm] [variance] [A (average) or M (median)`
+`./denoise [src image.ppm] [dst image.ppm] [variance] [A (average) or M (median)]`
 
 
 `./denooise test.ppm result.ppm 3 M`
